@@ -1,0 +1,40 @@
+#button2{
+    color: black;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    background-color: rgb(255, 0, 0);
+    left: 55%;
+    top: 48%;
+    border-radius: 15px;
+    cursor: pointer;
+
+    position: absolute;
+}
+
+#button{
+    color: black;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    background-color: rgb(255, 0, 0);
+    left: 35%;
+    top: 48%;
+    border-radius: 15px;
+    cursor: pointer;
+
+    position: absolute;
+}
+
+#vybersi{
+    width: 500px;
+    height: 175px;
+    color: white;
+    position: absolute;
+    left: 45%;
+    top: 25%;
+}
+
+
+
+body {background-color: black;}
